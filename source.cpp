@@ -59,7 +59,7 @@ int main(){
 		break;
 
 		case 2:
-		cout << " Enter the pasta quantity " ;
+		cout << " Enter the quantity of pasta you want " ;
 
 		cin >> quant;
 		if(Qpasta -Spasta>=quant)
@@ -74,7 +74,7 @@ int main(){
 
 		break;
 		case 3:
-		cout << " Enter the chicken quantity " ;
+		cout << " Enter the quantity of chicken you want " ;
 
 		cin >> quant;
 		if(Qchicken -Schicken>=quant)
@@ -89,7 +89,7 @@ int main(){
 		break;
 		
 		case 4:
-		cout << " Enter the noodles quantity " ;
+		cout << " Enter the quantity of noodle you want " ;
 
 		cin >> quant;
 		if(Qnoodles -Snoodles>=quant)
@@ -104,7 +104,7 @@ int main(){
 		break;
 
 		case 5:
-		cout << " Enter the burger quantity " ;
+		cout << " Enter the quantity of burger you want " ;
 
 		cin >> quant;
 		if(Qburger -Sburger>=quant)
